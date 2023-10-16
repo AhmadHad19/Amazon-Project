@@ -1,0 +1,5 @@
+email : ahmahhadeda2@gmail.com
+username : AhmadHad19
+
+git config --global user.name "AhmadHad19"
+git config --global user.email ahmahhadeda2@gmail.com
